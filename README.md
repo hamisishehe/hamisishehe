@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm hamisi shehe</h1>
+<h1 align="center">Hi 👋, I'm hamic</h1>
 <h3 align="center">A passionate frontend and backend developer from Tanzania</h3>
 
-- 🔭 I’m currently working on **E- commerce**
+- 🔭 I’m currently working on **Afrogotech.tz**
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **Python , Springboot , Flutter , Angular**
+- 💬 Ask me about **Python , Springboot , Flutter , Angular, React**
 
 - 📫 How to reach me **hamisishehe@gmail.com**
 
