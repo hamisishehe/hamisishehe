@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **Python , Springboot , Flutter , Angular, React**
+- 💬 Ask me about **Python , Springboot , Flutter , Angular, React, NextJs**
 
 - 📫 How to reach me **hamisishehe@gmail.com**
 
